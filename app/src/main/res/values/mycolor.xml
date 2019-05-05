@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red">#EB1616</color>
+    <color name="green">#42E38B</color>
+    <color name="blue">#0D38D4</color>
+    <color name="black">#171616</color>
+
+    <drawable name="greenLake">#ADE6E0</drawable>
+    <drawable name="white">#FFFFFFFF</drawable>
+    <drawable name="transparent_background">#a0000000</drawable>
+</resources>
